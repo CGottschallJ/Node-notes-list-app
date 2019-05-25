@@ -9,9 +9,10 @@ This simple node application uses terminal commands to save notes to a local fil
 ## How to use it
 To use this application:
 
-1. Clone the repo to you system locally
-2. Create your first note with the add command in the terminal
-3. You can then create another, remove the note, list all notes, or read any of the notes with the commands below.
+1. Clone the repo to you system locally.
+2. Run the command ```npm install``` 
+3. Create your first note with the add command in the terminal.
+4. You can then create another, remove the note, list all notes, or read any of the notes with the commands below.
 
 
 ### Commands
