@@ -28,6 +28,7 @@ node app.js add --title="Note Title Here" --body="Note Body Here"
 | --title="..." | String    | Yes      |
 | --body="..."  | String    | Yes      |
 
+----
 
 #### Remove
 To remove a note, run the command:
@@ -40,11 +41,15 @@ node app.js remove --title="Note Title Here"
 |---------------|-----------|----------|
 | --title="..." | String    | Yes      |
 
+----
+
 #### List
 To list all of the saved notes, run the command:
 ```
 node app.js list
 ```
+
+----
 
 #### Read
 To read a specific note, run the command:
