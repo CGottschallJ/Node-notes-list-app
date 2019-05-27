@@ -63,7 +63,7 @@ const listNotes = () => {
 	});
 }
 
-// Creatinf a function that will retrieve a single note
+// Creating a function that will retrieve a single note
 const readNote = (title) => {
 
 	// Loading the notes into a varaiable using the loadNotes() function.
